@@ -1,5 +1,5 @@
 {
-    "name": "emerald/emerald",
+    "name": "orionphp/orionphp",
     "description": "Emerald framework PHP",
     "type": "composer-plugin",
     "license": "MIT",
