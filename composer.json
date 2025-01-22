@@ -1,7 +1,7 @@
 {
     "name": "orionphp/orionphp",
     "description": "Emerald framework PHP",
-    "type": "composer-plugin",
+    "type": "project",
     "license": "MIT",
     "autoload": {
         "psr-4": {
